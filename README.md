@@ -68,3 +68,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+--------------------------------------------------------------------------------------------------------------------
+
+Crud Feito em React e Material Ui
+Api rest (Para metodos de inserção/visualização)
+
+Segue também um video demonstrando a funcionalidade da Aplicação.
+
+Obrigado.
